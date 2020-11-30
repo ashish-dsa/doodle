@@ -1,6 +1,7 @@
 World's only platform agnostic canvas built entirely using react native.
-Todo: Convert into an npm package
-
+<div align="center">
+   Todo: Convert into an npm package
+</div>
 <div align="center">
     <img src="/assets/Screenshot_2020-06-23-20-21-30-99_d0ded28723ed9f8ad7eb1578a3d1be9a.jpg"</img> 
 </div>
